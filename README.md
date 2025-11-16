@@ -8,8 +8,8 @@ A 3D stealth game built with Unity featuring guard patrols, basic player movemen
 - [Installation](#installation)
 - [Controls](#controls)
 - [Project Structure](#project-structure)
-- [Acknowledgements](#acknowledgements)
 - [Additional Gameplay](#additional-gameplay)
+- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
