@@ -13,7 +13,7 @@ A 3D stealth game built with Unity featuring guard patrols, basic player movemen
 
 ## Overview
 
-<img src="Assets/Screenshots/Gameplay2.png" width="45%" />
+<img src="Assets/Screenshots/Gameplay2.png" width="75%" />
 DEMO: https://github.com/bxiang17/Stealth-Game-2.0/blob/main/Assets/Screenshots/Video.mp4 
 <br><br>
 Implemented features:
@@ -47,10 +47,10 @@ git clone git@github.com:bxiang17/Stealth-Game-2.0.git
 - **.gitignore**       -> Excludes Library/, Temp/, Logs/, etc.
 
 ## Additional Gameplay
-<img src="Assets/Screenshots/Gameplay5.png" width="45%" /> 
-<img src="Assets/Screenshots/Gameplay1.png" width="45%" />
-<img src="Assets/Screenshots/Gameplay3.png" width="45%" />
-<img src="Assets/Screenshots/Gameplay4.png" width="45%" /> 
+<img src="Assets/Screenshots/Gameplay5.png" width="75%" /> 
+<img src="Assets/Screenshots/Gameplay1.png" width="75%" />
+<img src="Assets/Screenshots/Gameplay3.png" width="75%" />
+<img src="Assets/Screenshots/Gameplay4.png" width="75%" /> 
 
 ## Acknowledgements
 This game was inspired from tutorials made by CodeMonkey and Sebastian Lague.
