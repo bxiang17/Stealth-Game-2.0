@@ -1,6 +1,6 @@
 # Stealth Game 2.0
 
-A 3D stealth game built with Unity, featuring guard patrols, basic player movement mechanics, and interactive environments.
+A 3D stealth game built with Unity featuring guard patrols, basic player movement mechanics, and an interactive environment.
 
 ## Table of Contents
 
@@ -13,9 +13,10 @@ A 3D stealth game built with Unity, featuring guard patrols, basic player moveme
 
 ## Overview
 
-DEMO: https://github.com/bxiang17/Stealth-Game-2.0/blob/main/Assets/Screenshots/Video.mp4
-
-This Unity project demonstrates:
+<img src="Assets/Screenshots/Gameplay2.png" width="45%" />
+DEMO: https://github.com/bxiang17/Stealth-Game-2.0/blob/main/Assets/Screenshots/Video.mp4 
+<br><br>
+Implemented features:
 
 - Third-person player movement
 - Enemies with patrol routes and vision (flashlight) cones that change colour if caught
@@ -46,16 +47,10 @@ git clone git@github.com:bxiang17/Stealth-Game-2.0.git
 - **.gitignore**       -> Excludes Library/, Temp/, Logs/, etc.
 
 ## Additional Gameplay
-
-<p align="center">
-  <img src="Assets/Screenshots/Gameplay2.png" width="45%" />
-  <img src="Assets/Screenshots/Gameplay4.png" width="46.25%" />
-</p>
-
-<p align="center">
-  <img src="Assets/Screenshots/Gameplay3.png" width="45%" />
-  <img src="Assets/Screenshots/Gameplay1.png" width="46.53%" />
-</p>
+<img src="Assets/Screenshots/Gameplay5.png" width="45%" /> 
+<img src="Assets/Screenshots/Gameplay1.png" width="45%" />
+<img src="Assets/Screenshots/Gameplay3.png" width="45%" />
+<img src="Assets/Screenshots/Gameplay4.png" width="45%" /> 
 
 ## Acknowledgements
 This game was inspired from tutorials made by CodeMonkey and Sebastian Lague.
